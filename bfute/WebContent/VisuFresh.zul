@@ -11,8 +11,9 @@
  
  <![CDATA[
         
-       
+ 
 <h2 align="center">
+visualisation de la fiche n° ${vm.ficheMetier.numeroFiche} 
 ${vm.ficheMetier.nomDuMetier}
 </h2>
 
